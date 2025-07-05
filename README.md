@@ -1,10 +1,11 @@
 # 🪴 EcoTrack - bit-backend
 
 **Nombre completo:** Angelica Bohorquez Rozo  
-**Entrega para:** Proyecto BIT-BACKEND   
+**Entrega para:** Proyecto BIT-BACKEND  
 
 **Tecnologías usadas:** Node.js, Express.js, MongoDB Atlas, Mongoose, Postman
 
+---
 
 ## 📌 Descripción
 
@@ -15,6 +16,27 @@
 - Rechazo de bolsas plásticas ♻️  
 
 Además, permite manejar usuarios y más adelante incluirá retos semanales y estadísticas.
+
+---
+
+## 📬 Pruebas con Postman
+
+Puedes probar la API con Postman enviando solicitudes a los siguientes endpoints:
+
+---
+
+### ✨ Crear un hábito
+
+**POST** `http://localhost:3000/api/habits`
+
+#### Body (raw → JSON):
+
+```json
+{
+  "nombre": "Ducha de 5 minutos",
+  "descripcion": "Me duché rápido para ahorrar agua 💧"
+}
+
 
 ---
 Autor: Angélica Bohorquez Rozo
