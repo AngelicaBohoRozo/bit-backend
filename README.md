@@ -1,9 +1,14 @@
 # 🪴 EcoTrack - bit-backend
 
 **Nombre completo:** Angelica Bohorquez Rozo  
-**Entrega para:** Proyecto BIT-BACKEND  
+**Entrega 5:** BIT-BACKEND  
 
-**Tecnologías usadas:** Node.js, Express.js, MongoDB Atlas, Mongoose, Postman
+**Tecnologías usadas:** 
+- Node.js
+- Express.js
+- MongoDB Atlas
+- Mongoose
+- Postman
 
 ---
 
@@ -21,7 +26,7 @@ Además, permite manejar usuarios y más adelante incluirá retos semanales y es
 
 ## 📬 Pruebas con Postman
 
-Puedes probar la API con Postman enviando solicitudes a los siguientes endpoints:
+Es posible realizar pruebas con la API con Postman enviando solicitudes a los siguientes endpoints:
 
 ---
 
@@ -36,6 +41,8 @@ Puedes probar la API con Postman enviando solicitudes a los siguientes endpoints
   "nombre": "Ducha de 5 minutos",
   "descripcion": "Me duché rápido para ahorrar agua 💧"
 }
+
+Entre otros cumpliendo con el CRUD
 
 
 ---
